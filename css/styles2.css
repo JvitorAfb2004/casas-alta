@@ -599,3 +599,9 @@ footer .container {
   color: var(--dark-text); /* ou ajuste conforme seu tema */
 }
 
+.info-centralizado {
+  text-align: center;
+  font-size: 1.4rem;
+  margin-bottom: 60px;
+}
+
